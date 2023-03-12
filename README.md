@@ -1,1 +1,1 @@
-Basic TicTacToe Game in React
+Basic TicTacToe Game Made In React
